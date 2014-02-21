@@ -6,7 +6,7 @@ detect which type of EOL (AKA line-ending, newline) characters are in a stream
 
 ## usage
 
-this example reads a csv, detects which type of newlines it uses, and then creatse a new
+this example reads a csv, detects which type of newlines it uses, and then creates a new
 csv parser set to parse those types of newlines
 
 ```js
