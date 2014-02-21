@@ -1,0 +1,17 @@
+{
+  "name": "eol-stream",
+  "version": "0.0.1",
+  "description": "detect which type of EOL (AKA line-ending, newline) characters are in a stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "max ogden",
+  "license": "BSD",
+  "devDependencies": {
+    "tape": "~2.4.2"
+  },
+  "dependencies": {
+    "through2": "~0.4.1"
+  }
+}
